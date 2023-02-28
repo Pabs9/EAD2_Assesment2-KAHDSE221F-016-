@@ -34,7 +34,7 @@
 				</div>
 			</div>
 			<div >
-				<button >Add new employee</button>
+				<button >Add new Employee</button>
 			</div>
 		</form>
 		
